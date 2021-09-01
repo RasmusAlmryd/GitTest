@@ -1,1 +1,2 @@
 text som från nytt task
+Mer text som kommer från en andra commit
